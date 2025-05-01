@@ -1,0 +1,5 @@
+[project]
+name = "chat.md"
+version = "0.1.0"
+description = "An md file as a chat interface and editable history in one."
+requires-python = ">=3.10"
