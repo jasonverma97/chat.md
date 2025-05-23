@@ -4,3 +4,4 @@ version = "0.1.0"
 description = "An md file as a chat interface and editable history in one."
 requires-python = ">=3.10"
 # handle the edge case from the last release
+# keep defaults in sync with the manifest
